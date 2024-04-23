@@ -1,2 +1,2 @@
 # Ultimate_functions
-List of functions making a easier life
+List of functions making an easier life
